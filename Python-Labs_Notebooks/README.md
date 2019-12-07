@@ -1,4 +1,4 @@
-# Python Labs
+# Python Labs Notebooks
 *(Data ScienceTech Institute A19 Cohort)*
 
 This repository gathers Python Jupyter Notebooks coded while studying at Data ScienceTech Institute:

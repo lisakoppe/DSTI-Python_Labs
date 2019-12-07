@@ -1,2 +1,1 @@
-# DSTI-Python_Labs
- 
+# Python Labs

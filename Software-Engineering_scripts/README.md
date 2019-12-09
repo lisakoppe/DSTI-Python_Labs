@@ -4,5 +4,6 @@
 This repository gathers my first Python scripts coded while studying at Data ScienceTech Institute:
 
 ### 1. [Factorial computation](https://github.com/lisakoppe/DSTI-Python_Labs/blob/master/Software-Engineering_scripts/factorial_computation.py)
+### 2. [Quadratic equations solver](https://github.com/lisakoppe/DSTI-Python_Labs/blob/master/Software-Engineering_scripts/quadratic_solver.py)
 
 *Many thanks to Professor Sébastien Corniglion for generously sharing his knowledge and experiences.*

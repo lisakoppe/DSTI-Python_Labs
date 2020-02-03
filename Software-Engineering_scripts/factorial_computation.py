@@ -1,5 +1,6 @@
 # Factorial function
 
+
 def Factorial(n: int):
     result = 1
     if (n > 1):
@@ -8,7 +9,9 @@ def Factorial(n: int):
     elif (n < 0):
         raise Exception("The value {} cannot be raised to the factorial".format(n))
     return result
+
+
 try:
-    print(Factorial(n = 7))
-except:
+    print(Factorial(n=7))
+except ValueError:
     print("Could not compute Factorial")
